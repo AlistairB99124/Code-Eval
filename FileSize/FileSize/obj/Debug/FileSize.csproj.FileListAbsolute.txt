@@ -1,0 +1,1 @@
+P:\Code Eval\FileSize\FileSize\bin\Debug\FileSize.exe.config

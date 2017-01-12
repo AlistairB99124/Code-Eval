@@ -1,0 +1,5 @@
+P:\Code Eval\EmailValidation\EmailValidation\bin\Debug\EmailValidation.exe.config
+P:\Code Eval\EmailValidation\EmailValidation\bin\Debug\EmailValidation.exe
+P:\Code Eval\EmailValidation\EmailValidation\bin\Debug\EmailValidation.pdb
+P:\Code Eval\EmailValidation\EmailValidation\obj\Debug\EmailValidation.exe
+P:\Code Eval\EmailValidation\EmailValidation\obj\Debug\EmailValidation.pdb

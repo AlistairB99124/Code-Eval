@@ -1,0 +1,6 @@
+P:\Code Eval\CalculateDistance\CalculateDistance\bin\Debug\CalculateDistance.exe.config
+P:\Code Eval\CalculateDistance\CalculateDistance\bin\Debug\CalculateDistance.exe
+P:\Code Eval\CalculateDistance\CalculateDistance\bin\Debug\CalculateDistance.pdb
+P:\Code Eval\CalculateDistance\CalculateDistance\obj\Debug\CalculateDistance.csprojResolveAssemblyReference.cache
+P:\Code Eval\CalculateDistance\CalculateDistance\obj\Debug\CalculateDistance.exe
+P:\Code Eval\CalculateDistance\CalculateDistance\obj\Debug\CalculateDistance.pdb

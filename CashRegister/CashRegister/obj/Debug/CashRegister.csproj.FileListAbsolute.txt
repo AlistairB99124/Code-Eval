@@ -1,0 +1,5 @@
+P:\Code Eval\CashRegister\CashRegister\bin\Debug\CashRegister.exe.config
+P:\Code Eval\CashRegister\CashRegister\bin\Debug\CashRegister.exe
+P:\Code Eval\CashRegister\CashRegister\bin\Debug\CashRegister.pdb
+P:\Code Eval\CashRegister\CashRegister\obj\Debug\CashRegister.exe
+P:\Code Eval\CashRegister\CashRegister\obj\Debug\CashRegister.pdb
