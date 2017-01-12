@@ -1,0 +1,6 @@
+P:\Code Eval\Overlapping Rectangles\Overlapping Rectangles\bin\Debug\Overlapping Rectangles.exe.config
+P:\Code Eval\Overlapping Rectangles\Overlapping Rectangles\bin\Debug\Overlapping Rectangles.exe
+P:\Code Eval\Overlapping Rectangles\Overlapping Rectangles\bin\Debug\Overlapping Rectangles.pdb
+P:\Code Eval\Overlapping Rectangles\Overlapping Rectangles\obj\Debug\Overlapping Rectangles.csprojResolveAssemblyReference.cache
+P:\Code Eval\Overlapping Rectangles\Overlapping Rectangles\obj\Debug\Overlapping Rectangles.exe
+P:\Code Eval\Overlapping Rectangles\Overlapping Rectangles\obj\Debug\Overlapping Rectangles.pdb

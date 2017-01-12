@@ -1,0 +1,6 @@
+P:\Code Eval\Multiplication Tables\Multiplication Tables\bin\Debug\Multiplication Tables.exe.config
+P:\Code Eval\Multiplication Tables\Multiplication Tables\bin\Debug\Multiplication Tables.exe
+P:\Code Eval\Multiplication Tables\Multiplication Tables\bin\Debug\Multiplication Tables.pdb
+P:\Code Eval\Multiplication Tables\Multiplication Tables\obj\Debug\Multiplication Tables.csprojResolveAssemblyReference.cache
+P:\Code Eval\Multiplication Tables\Multiplication Tables\obj\Debug\Multiplication Tables.exe
+P:\Code Eval\Multiplication Tables\Multiplication Tables\obj\Debug\Multiplication Tables.pdb

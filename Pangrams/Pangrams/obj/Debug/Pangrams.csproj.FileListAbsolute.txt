@@ -1,0 +1,6 @@
+P:\Code Eval\Pangrams\Pangrams\bin\Debug\Pangrams.exe.config
+P:\Code Eval\Pangrams\Pangrams\bin\Debug\Pangrams.exe
+P:\Code Eval\Pangrams\Pangrams\bin\Debug\Pangrams.pdb
+P:\Code Eval\Pangrams\Pangrams\obj\Debug\Pangrams.csprojResolveAssemblyReference.cache
+P:\Code Eval\Pangrams\Pangrams\obj\Debug\Pangrams.exe
+P:\Code Eval\Pangrams\Pangrams\obj\Debug\Pangrams.pdb
