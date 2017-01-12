@@ -1,1 +1,2 @@
 P:\Code Eval\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe.config
+P:\Code-Eval\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe.config

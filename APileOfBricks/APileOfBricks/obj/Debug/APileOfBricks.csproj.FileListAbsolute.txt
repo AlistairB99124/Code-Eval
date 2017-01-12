@@ -1,1 +1,7 @@
 P:\Code Eval\APileOfBricks\APileOfBricks\bin\Debug\APileOfBricks.exe.config
+P:\Code-Eval\APileOfBricks\APileOfBricks\bin\Debug\APileOfBricks.exe.config
+P:\Code-Eval\APileOfBricks\APileOfBricks\bin\Debug\APileOfBricks.exe
+P:\Code-Eval\APileOfBricks\APileOfBricks\bin\Debug\APileOfBricks.pdb
+P:\Code-Eval\APileOfBricks\APileOfBricks\obj\Debug\APileOfBricks.csprojResolveAssemblyReference.cache
+P:\Code-Eval\APileOfBricks\APileOfBricks\obj\Debug\APileOfBricks.exe
+P:\Code-Eval\APileOfBricks\APileOfBricks\obj\Debug\APileOfBricks.pdb
