@@ -1,0 +1,6 @@
+P:\Code-Eval\DA VYNCY\DA VYNCY\bin\Debug\DA VYNCY.exe.config
+P:\Code-Eval\DA VYNCY\DA VYNCY\bin\Debug\DA VYNCY.exe
+P:\Code-Eval\DA VYNCY\DA VYNCY\bin\Debug\DA VYNCY.pdb
+P:\Code-Eval\DA VYNCY\DA VYNCY\obj\Debug\DA VYNCY.csprojResolveAssemblyReference.cache
+P:\Code-Eval\DA VYNCY\DA VYNCY\obj\Debug\DA VYNCY.exe
+P:\Code-Eval\DA VYNCY\DA VYNCY\obj\Debug\DA VYNCY.pdb

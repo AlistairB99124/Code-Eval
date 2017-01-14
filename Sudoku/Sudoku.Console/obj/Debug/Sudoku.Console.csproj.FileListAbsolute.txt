@@ -1,0 +1,8 @@
+P:\Lynda\Sudoku\Sudoku.Console\bin\Debug\Sudoku.Console.exe.config
+P:\Lynda\Sudoku\Sudoku.Console\bin\Debug\Sudoku.Console.exe
+P:\Lynda\Sudoku\Sudoku.Console\bin\Debug\Sudoku.Console.pdb
+P:\Lynda\Sudoku\Sudoku.Console\obj\Debug\Sudoku.Console.csprojResolveAssemblyReference.cache
+P:\Lynda\Sudoku\Sudoku.Console\obj\Debug\Sudoku.Console.exe
+P:\Lynda\Sudoku\Sudoku.Console\obj\Debug\Sudoku.Console.pdb
+P:\Lynda\Sudoku\Sudoku.Console\bin\Debug\Sudoku.Calculations.dll
+P:\Lynda\Sudoku\Sudoku.Console\bin\Debug\Sudoku.Calculations.pdb

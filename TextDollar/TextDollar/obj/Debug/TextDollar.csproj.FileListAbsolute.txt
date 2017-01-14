@@ -1,0 +1,14 @@
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\TextDollar.exe.config
+P:\Code Eval\TextDollar\TextDollar\obj\Debug\TextDollar.csprojResolveAssemblyReference.cache
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\TextDollar.exe
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\TextDollar.pdb
+P:\Code Eval\TextDollar\TextDollar\obj\Debug\TextDollar.exe
+P:\Code Eval\TextDollar\TextDollar\obj\Debug\TextDollar.pdb
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\ClosedXML.dll
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\DocumentFormat.OpenXml.dll
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\Spire.Common.dll
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\Spire.License.dll
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\Spire.Pdf.dll
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\Spire.XLS.dll
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\Microsoft.mshtml.dll
+P:\Code Eval\TextDollar\TextDollar\bin\Debug\ClosedXML.pdb

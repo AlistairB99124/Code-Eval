@@ -1,0 +1,5 @@
+P:\Lynda\Sudoku\Sudoku.Calculations\bin\Debug\Sudoku.Calculations.dll
+P:\Lynda\Sudoku\Sudoku.Calculations\bin\Debug\Sudoku.Calculations.pdb
+P:\Lynda\Sudoku\Sudoku.Calculations\obj\Debug\Sudoku.Calculations.csprojResolveAssemblyReference.cache
+P:\Lynda\Sudoku\Sudoku.Calculations\obj\Debug\Sudoku.Calculations.dll
+P:\Lynda\Sudoku\Sudoku.Calculations\obj\Debug\Sudoku.Calculations.pdb

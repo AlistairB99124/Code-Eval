@@ -1,0 +1,6 @@
+P:\Code Eval\MorseCode\MorseCode\bin\Debug\MorseCode.exe.config
+P:\Code Eval\MorseCode\MorseCode\bin\Debug\MorseCode.exe
+P:\Code Eval\MorseCode\MorseCode\bin\Debug\MorseCode.pdb
+P:\Code Eval\MorseCode\MorseCode\obj\Debug\MorseCode.csprojResolveAssemblyReference.cache
+P:\Code Eval\MorseCode\MorseCode\obj\Debug\MorseCode.exe
+P:\Code Eval\MorseCode\MorseCode\obj\Debug\MorseCode.pdb

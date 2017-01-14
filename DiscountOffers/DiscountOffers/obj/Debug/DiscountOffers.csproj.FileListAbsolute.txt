@@ -1,0 +1,6 @@
+P:\Code Eval\DiscountOffers\DiscountOffers\bin\Debug\DiscountOffers.exe.config
+P:\Code Eval\DiscountOffers\DiscountOffers\bin\Debug\DiscountOffers.exe
+P:\Code Eval\DiscountOffers\DiscountOffers\bin\Debug\DiscountOffers.pdb
+P:\Code Eval\DiscountOffers\DiscountOffers\obj\Debug\DiscountOffers.csprojResolveAssemblyReference.cache
+P:\Code Eval\DiscountOffers\DiscountOffers\obj\Debug\DiscountOffers.exe
+P:\Code Eval\DiscountOffers\DiscountOffers\obj\Debug\DiscountOffers.pdb

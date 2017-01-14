@@ -1,0 +1,9 @@
+P:\Lynda\Sudoku\Sudoku.UnitTests\bin\Debug\Sudoku.UnitTests.dll
+P:\Lynda\Sudoku\Sudoku.UnitTests\bin\Debug\Sudoku.UnitTests.pdb
+P:\Lynda\Sudoku\Sudoku.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+P:\Lynda\Sudoku\Sudoku.UnitTests\bin\Debug\Sudoku.Calculations.dll
+P:\Lynda\Sudoku\Sudoku.UnitTests\bin\Debug\Sudoku.Calculations.pdb
+P:\Lynda\Sudoku\Sudoku.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+P:\Lynda\Sudoku\Sudoku.UnitTests\obj\Debug\Sudoku.UnitTests.csprojResolveAssemblyReference.cache
+P:\Lynda\Sudoku\Sudoku.UnitTests\obj\Debug\Sudoku.UnitTests.dll
+P:\Lynda\Sudoku\Sudoku.UnitTests\obj\Debug\Sudoku.UnitTests.pdb
